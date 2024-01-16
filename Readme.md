@@ -1,0 +1,1 @@
+### 包含两个BatchSender方法，分别用于批量发送EVM链原生coin,如ETH 和批量发送ERC20 token
